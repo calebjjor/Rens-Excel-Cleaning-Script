@@ -27,7 +27,8 @@ A Python script to clean Excel spreadsheets based on the desired period of time.
    - The unfiltered file must have no blank rows near the top. This will require some manual work.
    - Open the unfiltered excel file and cut and paste all data entries so that the header columns are in "Row 1"
    - It should look like this:
-     ![Formatted Excel Spreadsheet](https://github.com/user-attachments/assets/c8dc8a34-f014-40fd-8169-f2ffff2f6eb0)
+     ![formatted excel update](https://github.com/user-attachments/assets/a4e916b6-641b-4a60-9fae-3dc11debe5b1)
+
 
 
 ---
